@@ -10,6 +10,10 @@ To Converte an image to gray scale and HSV.
 5. To display the H,S and V plane, split the HSV image and showthe HUE, SATURATION and VALUE
 
 ## PROGRAM:
+```
+NAME : DARIO G
+REG NO. : 212222230027
+```
 ```python
 import cv2
 image=cv2.imread('flower.jpg',1)
